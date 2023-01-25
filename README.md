@@ -1,3 +1,8 @@
+# LIVE DEMO :-  <a href="https://jobbyappnk.ccbp.tech">Jobby App</a>
+### Login Details
+Username: rahul </br>
+Password: rahul@2021
+
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
 ### Refer to videos below:
